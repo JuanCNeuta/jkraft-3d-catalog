@@ -4,7 +4,7 @@ Sitio web profesional para showcase de servicios de impresión 3D, construido co
 
 ## 🚀 Demo en Vivo
 
-👉 [Ver Demo](https://jkraft-3d.vercel.app)
+👉 [Ver Demo](https://vercel.com/juancarlosneutas-projects/jkraft-3d-catalog)
 
 ## ✨ Características
 
